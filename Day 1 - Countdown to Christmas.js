@@ -4,7 +4,7 @@
 // - Display remaining days in countdownDisplay.
 
 function renderCountdown() {
-  // const christhmas = 25;
+  // const christmas = 25;
   let christmas = new Date("12/24/2021 00:00:00");
   let christmasInMill = christmas.getTime();
   console.log("christmas in milliseconds is always: " + christmasInMill);   
