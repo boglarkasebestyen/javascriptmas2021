@@ -20,7 +20,9 @@ Scrimba's Advent Calendar containing all of the exercises can be found [here](ht
 Solution [here](https://scrimba.com/scrim/co292430698041e4a708b1b9d
 ).
 
-## Day 2 - 
+## Day 2 - Toggle Christmas Theme
+Add the functionality to switch between "christmas" and "snow".
+Solution [here](https://scrimba.com/scrim/coa73495ba4d7fdb861cf29e0).
 
 
 ## Day 3 - 
