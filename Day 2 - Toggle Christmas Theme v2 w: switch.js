@@ -17,7 +17,7 @@ function getLabel() {
 }
 
 function getGreeting() {
-    return isGreeting ? "Merry Christmas!" : "...and a happy new year!";
+    return isGreeting ? "Merry Christmas!" : "Happy New Year!";
 }
 
 function myToggle() {
