@@ -34,7 +34,7 @@ Solution [here](https://scrimba.com/scrim/coa73495ba4d7fdb861cf29e0).
 
 Solution [here](https://scrimba.com/scrim/co0614725be115dde4b9a7e2c).
 
-## Day 4 - Shopping Cheklist
+## Day 4 - Shopping Checklist
  - For each item in the items array, create a div with a class of "checklist-item", which contains a checkbox input and corresponding label
  - Make sure that the shopping list can render a checkbox for all the items, even if new items are added to the items array
 
