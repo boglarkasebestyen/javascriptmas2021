@@ -41,6 +41,10 @@ Solution [here](https://scrimba.com/scrim/co0614725be115dde4b9a7e2c).
 Solution [here](https://scrimba.com/scrim/cod38478687b46de122740b23).
 
 ## Day 5 - 
+- Write a function to display a random greeting, from an array, in the card.
+
+Solution [here](https://scrimba.com/scrim/coc82459d97b174d51098b1bc).
+
 
 ## Day 6 - 
 
